@@ -1,2 +1,2 @@
 print("trash")
-print(":o")
+print(":o"
